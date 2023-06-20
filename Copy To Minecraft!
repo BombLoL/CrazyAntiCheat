@@ -9,3 +9,4 @@ ComamndBlocks
 '/clear @a light_block'
 '/clear @a bee_nest'
 '/clear @a beehive'
+'/camerashake stop'
