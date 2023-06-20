@@ -1,0 +1,11 @@
+TickingArea
+'/tickingarea add circle ~ ~ ~ 4 CAC'
+
+ComamndBlocks
+'/kill @e[type=npc]'
+'/kill @e[type=command_block_minecart]'
+'/clear @a barrier'
+'/clear @a bedrock'
+'/clear @a light_block'
+'/clear @a bee_nest'
+'/clear @a beehive'
