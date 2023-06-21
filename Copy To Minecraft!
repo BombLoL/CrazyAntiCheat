@@ -1,7 +1,7 @@
 TickingArea
 '/tickingarea add circle ~ ~ ~ 4 CAC'
 
-ComamndBlocks
+Command Blocks (REPEAT)
 '/kill @e[type=npc]'
 '/kill @e[type=command_block_minecart]'
 '/clear @a barrier'
