@@ -9,4 +9,5 @@ Command Blocks (REPEAT)
 '/clear @a light_block'
 '/clear @a bee_nest'
 '/clear @a beehive'
+'/clear @a axolotl_bucket'
 '/camerashake stop'
